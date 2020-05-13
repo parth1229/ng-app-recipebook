@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ng build --output-path RecipeBookApp  --aot --prod"
+    "postinstall": "ng build --output-path recipe-book-app  --aot --prod"
   },
   "engines": {
     "node": "v10.14.1",
